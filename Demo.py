@@ -1,2 +1,2 @@
 print("welcome to Datamites")
-print("hello thanks for joining us")
+print("Enter your name ")
